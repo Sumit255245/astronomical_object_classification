@@ -58,7 +58,7 @@ The dataset is the [Stellar Classification Dataset — SDSS17](https://www.kaggl
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/astronomical-object-classification
+git clone https://github.com/Sumit255245/astronomical-object-classification
 cd astronomical-object-classification
 ```
 
