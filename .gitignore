@@ -1,0 +1,9 @@
+venv/
+star_classification.csv
+sdss_clean.csv
+sdss_ready.pkl
+sdss_models.pkl
+sdss_best_model.pkl
+*.png
+__pycache__/
+*.pyc
